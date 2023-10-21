@@ -1,0 +1,21 @@
+table{  /* lo que hay detras de { es lo que le vamos a poner estilos */
+    /* se utiliza para colapsar todos los bordes */
+    border-collapse: collapse;
+}
+td {
+    /* border identificamos que sera de 1pixel de ancho y que el tipo de borde sea solido  */
+    border: 1px solid;
+    border-collapse: collapse   ;
+}
+h1 {
+    color:  goldenrod;
+    font-weight: bold;
+    margin-left: 35vw ;
+}
+th{
+    text-align: center;
+    background-color: rgb(164, 164, 164);
+    font-weight: bold;
+}
+caption{
+color:blue;}
